@@ -1,0 +1,3 @@
+# JoyStick Academy sidecar, published files. Verify with:
+#     sha256sum -c manifest.sha256
+d580a8ebc1cac79efa309f9dbcd5e0885c2bb0eb498627c314a404563a356bcc  JoyStickAcademy.Host
